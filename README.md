@@ -9,9 +9,8 @@ This is a boilerplate for NextJS 15 project. It provides a starting point for bu
 The following dependencies are included in this boilerplate:
 
 - Tailwind CSS: A utility-first CSS framework for rapidly building custom user interfaces.
-- ShadCn: A ui components library.
+- Shadcn: A ui components library.
 - clsx: A utility for constructing className strings conditionally.
-- dotenv: A zero-dependency module that loads environment variables from a .env file into process.env.
 - lucide: A collection of open-source icons.
 
 ## Getting Started
