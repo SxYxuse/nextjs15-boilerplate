@@ -22,7 +22,7 @@ To get started with this boilerplate, follow these steps:
 2. Install the dependencies: `pnpm install`
 3. Start the development server: `pnpm run dev`
 
-You can now start building your SvelteKit application based on this boilerplate.
+You can now start building your NextJS application based on this boilerplate.
 
 ## Contributing
 
