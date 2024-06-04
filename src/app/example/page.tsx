@@ -1,13 +1,13 @@
-type Props = {
-  // add props here
-};
+import Link from "next/link";
 
-const Test = (props: Props) => {
+interface ExamplePageProps {
+  // add props here
+}
+
+export default function ExamplePage(props: ExamplePageProps) {
   return (
     <>
-      <p>cc</p>
+      <p className="p-2">Example page</p>
     </>
   );
-};
-
-export default Test;
+}
